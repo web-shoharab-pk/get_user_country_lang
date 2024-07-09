@@ -1,5 +1,7 @@
 # get_user_country_lang
-
+```
+https://api.ipregistry.co/?key=tryout
+```
 import React, { useState, useEffect } from 'react';
 
 const UserLocationLanguage = () => {
